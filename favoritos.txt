@@ -2,3 +2,8 @@ Comidas favoritas:
 - Tacos al pastor
 - Pizza
 - Enchiladas
+
+Peliculas favoritas:
+- El Senor de los Anillos
+- Interestelar
+- Volver al Futuro
